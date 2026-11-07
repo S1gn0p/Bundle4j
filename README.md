@@ -4,6 +4,12 @@
 
 只需将 Java 的 `.exe` 和 JRE 文件夹拖入窗口，即可生成一个包含完整运行时的独立 `.exe` 文件，无需用户额外安装 Java 环境。
 
+## 视频教程：
+
+https://github.com/user-attachments/assets/9f78563b-b994-4a13-90e0-c68a554a0ea5
+
+
+
 ## ✨ 核心特性
 
 - 🖱️ **极简拖拽**：同时拖入 `.exe` 和 `jre` 文件夹，一键打包。
