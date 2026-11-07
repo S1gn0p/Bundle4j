@@ -14,7 +14,7 @@
 
 1. 前往本仓库的 [Releases](https://github.com/你的用户名/Bundle4j/releases) 页面，下载最新的 `packer.exe`。
 2. 双击运行 `packer.exe`。
-3. 将你的 Java 程序 `.exe` 和 `jre` 文件夹（按住 Ctrl 多选）拖入窗口中。
+3. 将你的 Java 程序 `.exe` 和 `jre` 文件夹拖入窗口对应位置中。
 4. 点击“开始生成单文件”，同目录下会生成 `你的程序_Bundle4j.exe`。
 5. 将这个生成好的文件发给任何人，他们无需安装 Java 即可直接双击运行！
 
